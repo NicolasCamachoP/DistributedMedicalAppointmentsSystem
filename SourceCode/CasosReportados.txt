@@ -1,0 +1,2 @@
+Caso Reportado: Paciente con nombre Pablo y cédula 1782465 tiene una puntuación de 0 su estado de gravedad es No Clasifica
+Caso Reportado: Paciente con nombre Pedro y cédula 1782467 tiene una puntuación de 100 su estado de gravedad es Grave

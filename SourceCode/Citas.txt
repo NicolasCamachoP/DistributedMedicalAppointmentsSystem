@@ -1,0 +1,28 @@
+CitaAsignada: 
+---------------------------------
+Paciente: JoseE
+Cedula: 1782468
+Tiene un puntaje de: 70
+Su cita fue asignada en la fecha: 06/01/20 8:00
+---------------------------------
+CitaAsignada: 
+---------------------------------
+Paciente: CamiloE
+Cedula: 1783458
+Tiene un puntaje de: 80
+Su cita fue asignada en la fecha: 06/01/20 9:00
+---------------------------------
+CitaAsignada: 
+---------------------------------
+Paciente: PabloPor
+Cedula: 1782481
+Tiene un puntaje de: 100
+Su cita fue asignada en la fecha: 05/29/20 8:00
+---------------------------------
+CitaAsignada: 
+---------------------------------
+Paciente: PedroE
+Cedula: 1782467
+Tiene un puntaje de: 90
+Su cita fue asignada en la fecha: 05/29/20 9:00
+---------------------------------

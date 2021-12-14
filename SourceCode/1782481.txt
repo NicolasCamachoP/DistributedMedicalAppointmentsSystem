@@ -1,0 +1,8 @@
+Cita: Paciente: PabloPor Cedula: 1782481 Tiene un puntaje de: 100 Su cita fue asignada en la fecha: 05/29/20 8:00
+Cita: Paciente: PabloPor Cedula: 1782481 Tiene un puntaje de: 100 Su cita fue asignada en la fecha: 05/29/20 9:00
+Cita: Paciente: PabloPor Cedula: 1782481 Tiene un puntaje de: 100 Su cita fue asignada en la fecha: 05/29/20 9:00
+Cita: Paciente: PabloPor Cedula: 1782481 Tiene un puntaje de: 100 Su cita fue asignada en la fecha: 05/29/20 9:00
+Cita: Paciente: PabloPor Cedula: 1782481 Tiene un puntaje de: 100 Su cita fue asignada en la fecha: 05/29/20 9:00
+Cita: Paciente: PabloPor Cedula: 1782481 Tiene un puntaje de: 100 Su cita fue asignada en la fecha: 05/29/20 8:00
+Cita: Paciente: PabloPor Cedula: 1782481 Tiene un puntaje de: 100 Su cita fue asignada en la fecha: 05/29/20 9:00
+Cita: Paciente: PabloPor Cedula: 1782481 Tiene un puntaje de: 100 Su cita fue asignada en la fecha: 05/29/20 8:00

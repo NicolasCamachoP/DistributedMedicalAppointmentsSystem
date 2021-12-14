@@ -1,0 +1,16 @@
+Date:
+05/28/20 9:32 am
+Nombre:
+PedroE
+Documento:
+1782467
+Edad:
+70
+EPS:
+Compensar
+Patologias:
+cancer,diabetes,hipoglucemia
+Sintomas:
+fiebre,falta de aire y dificultad para respirar,tos,cansancio,dolor
+Antecendes Cirugias Importantes:
+0

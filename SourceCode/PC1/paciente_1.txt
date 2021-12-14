@@ -1,0 +1,16 @@
+Date:
+05/28/20 9:31 am
+Nombre:
+PabloE
+Documento:
+1782465
+Edad:
+61
+EPS:
+Compensar
+Patologias:
+cancer,diabetes
+Sintomas:
+fiebre,tos,cansancio,dolor
+Antecendes Cirugias Importantes:
+2

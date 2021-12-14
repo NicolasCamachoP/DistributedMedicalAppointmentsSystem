@@ -1,0 +1,16 @@
+Date:
+05/28/20 9:31 am
+Nombre:
+JoseE
+Documento:
+1782468
+Edad:
+30
+EPS:
+Sura
+Patologias:
+hipoglucemia
+Sintomas:
+fiebre,tos,cansancio,dolor
+Antecendes Cirugias Importantes:
+2
